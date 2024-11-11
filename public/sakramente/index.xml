@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sakramente on St. Marien Gemeinde</title>
+    <link>http://localhost:1313/sakramente/</link>
+    <description>Recent content in Sakramente on St. Marien Gemeinde</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/sakramente/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taufe</title>
+      <link>http://localhost:1313/sakramente/taufe/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sakramente/taufe/</guid>
+      <description>Die Taufe Die Taufe ist das erste Sakrament und die Aufnahme in die christliche Gemeinschaft.&#xA;Tauftermine 2024 Taufen finden in der Regel an folgenden Sonntagen nach dem Hochamt statt:&#xA;Januar Februar März April Anmeldung zur Taufe Bitte melden Sie sich mindestens 2 Monate vor dem gewünschten Tauftermin im Pfarrbüro.</description>
+    </item>
+  </channel>
+</rss>

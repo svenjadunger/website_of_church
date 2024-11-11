@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Gemeinschaft",
+    "description": "Eine lebendige Gemeinde für Jung und Alt.",
+    "icon": "icon-people_outline"
+  },
+  {
+    "title": "Gottesdienste",
+    "description": "Tägliche Messfeiern und besondere Andachten.",
+    "icon": "icon-church"
+  },
+  {
+    "title": "Seelsorge",
+    "description": "Persönliche Begleitung in allen Lebenslagen.",
+    "icon": "icon-favorite_outline"
+  }
+  
+]

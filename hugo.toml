@@ -1,0 +1,108 @@
+baseURL = "https://st-marien-beispiel.de"
+title = "St. Marien Gemeinde"
+author = "St. Marien Kirchengemeinde"
+languageCode = "de-DE"
+DefaultContentLanguage = "de"
+enableInlineShortcodes = true
+theme = "tella"
+enableRobotsTXT = true
+
+[params]
+  showBlog = true
+  mainSections = ['aktuelles']
+  googleFonts = true
+  
+  [params.logo]
+    main = "img/logo/kirche-logo.svg"
+    alt = "St. Marien Logo"
+    size = "h-16"
+    
+  [params.site]
+    name = "St. Marien Gemeinde"
+    
+  [params.icon]
+    fontawesome = true
+    
+  [params.homepage_meta_tags]
+    meta_description = "Willkommen bei der St. Marien Kirchengemeinde - Ihre lebendige katholische Gemeinde in Beispielstadt"
+    meta_og_title = "St. Marien Gemeinde"
+    meta_og_type = "website"
+    meta_og_url = "https://st-marien-beispiel.de"
+    meta_og_image = "img/kirche-gebaeude.jpg"
+    meta_og_description = "Katholische Kirchengemeinde St. Marien - Gottesdienste, Gemeindeleben und Veranstaltungen"
+
+[menu]
+  [[menu.main]]
+    identifier = "gottesdienste"
+    name = "Gottesdienste"
+    url = "/gottesdienste/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "gemeindeleben"
+    name = "Gemeindeleben"
+    url = "/gemeindeleben/"
+    weight = 2
+    
+  [[menu.main]]
+    identifier = "gruppen"
+    name = "Gruppen & Kreise"
+    url = "/gruppen/"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "aktuelles"
+    name = "Aktuelles"
+    url = "/aktuelles/"
+    weight = 4
+    
+  [[menu.main]]
+    identifier = "sakramente"
+    name = "Sakramente"
+    url = "/sakramente/"
+    weight = 5
+    
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url = "/kontakt/"
+    weight = 6
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Startseite"
+    url = "/"
+    weight = 1
+    
+  [[menu.footer]]
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 2
+    
+  [[menu.footer]]
+    name = "Datenschutz"
+    url = "/datenschutz/"
+    weight = 3
+    
+  [[menu.footer]]
+    name = "Newsletter"
+    url = "/newsletter/"
+    weight = 4
+
+[taxonomies]
+  category = "kategorien"
+  tag = "schlagworte"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
