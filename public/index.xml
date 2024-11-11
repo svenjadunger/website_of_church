@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Willkommen bei St. Marien on St. Marien Gemeinde</title>
+    <title>Willkommen bei St. Marien on St. Marien Gemeinde Berlin</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Willkommen bei St. Marien on St. Marien Gemeinde</description>
+    <description>Recent content in Willkommen bei St. Marien on St. Marien Gemeinde Berlin</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
@@ -48,7 +48,7 @@
       <link>http://localhost:1313/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/kontakt/</guid>
-      <description>Kontakt Katholische Kirchengemeinde St. Marien Kirchplatz 1 12345 Beispielstadt&#xA;Telefon: 0123 / 456789 E-Mail: kontakt@st-marien-beispiel.de&#xA;Pfarrbüro Öffnungszeiten:&#xA;Montag: 9:00 - 12:00 Uhr Mittwoch: 15:00 - 18:00 Uhr Freitag: 9:00 - 12:00 Uhr Seelsorger Pfarrer Michael Schmidt Sprechzeiten nach Vereinbarung Tel.: 0123 / 456789-1&#xA;Gemeindereferentin Anna Weber Sprechzeiten: Mittwochs 16:00 - 18:00 Uhr Tel.: 0123 / 456789-2</description>
+      <description>Katholische Kirchengemeinde St. Marien Kirchplatz 1 12345 Beispielstadt&#xA;Telefon: 0123 / 456789 E-Mail: kontakt@st-marien-beispiel.de&#xA;Pfarrbüro Öffnungszeiten:&#xA;Montag: 9:00 - 12:00 Uhr Mittwoch: 15:00 - 18:00 Uhr Freitag: 9:00 - 12:00 Uhr Seelsorger Pfarrer Michael Schmidt Sprechzeiten nach Vereinbarung Tel.: 0123 / 456789-1&#xA;Gemeindereferentin Anna Weber Sprechzeiten: Mittwochs 16:00 - 18:00 Uhr Tel.: 0123 / 456789-2</description>
     </item>
   </channel>
 </rss>

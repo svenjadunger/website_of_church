@@ -3,7 +3,6 @@ title: "Kontakt"
 description: "So erreichen Sie uns"
 ---
 
-# Kontakt
 
 ## Katholische Kirchengemeinde St. Marien
 Kirchplatz 1

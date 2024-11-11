@@ -5,7 +5,7 @@ description: "Ihre katholische Kirchengemeinde in Beispielstadt"
 
 # Herzlich Willkommen
 
-Wir freuen uns, Sie auf der Webseite der katholischen Kirchengemeinde St. Marien begrüßen zu dürfen. Unsere Gemeinde ist ein Ort der Begegnung, des Glaubens und der Gemeinschaft.
+Wir freuen uns, Sie auf der Webseite der blabala  Kirchengemeinde St. Marien begrüßen zu dürfen. Unsere Gemeinde ist ein Ort der Begegnung, des Glaubens und der Gemeinschaft.
 
 ## Nächste Gottesdienste
 

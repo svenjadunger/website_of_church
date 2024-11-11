@@ -1,5 +1,5 @@
 baseURL = "https://st-marien-beispiel.de"
-title = "St. Marien Gemeinde"
+title = "St. Marien Gemeinde Berlin"
 author = "St. Marien Kirchengemeinde"
 languageCode = "de-DE"
 DefaultContentLanguage = "de"
@@ -14,7 +14,7 @@ enableRobotsTXT = true
   
   [params.logo]
     main = "img/logo/kirche-logo.svg"
-    alt = "St. Marien Logo"
+    alt = "St. Marien Logo Berlin"
     size = "h-16"
     
   [params.site]
