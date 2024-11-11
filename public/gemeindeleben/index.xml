@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gemeindeleben on St. Marien Gemeinde Berlin</title>
-    <link>http://localhost:1313/gemeindeleben/</link>
-    <description>Recent content in Gemeindeleben on St. Marien Gemeinde Berlin</description>
-    <generator>Hugo</generator>
-    <language>de-DE</language>
-    <lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/gemeindeleben/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kirchenchor St. Marien</title>
-      <link>http://localhost:1313/gemeindeleben/kirchenchor/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gemeindeleben/kirchenchor/</guid>
-      <description>Kirchenchor St. Marien Unser Kirchenchor trifft sich jeden Donnerstag von 19:30 bis 21:00 Uhr im Gemeindesaal.&#xA;Aktuelles Repertoire Mozart: Missa brevis in D Bach: Verschiedene Motetten Moderne Kirchenlieder Mitsingen? Neue Sängerinnen und Sänger sind herzlich willkommen! Sprechen Sie einfach unseren Chorleiter an.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gemeindeleben on St. Marien Gemeinde Berlin</title><link>https://st-marien-beispiel.de/gemeindeleben/</link><description>Recent content in Gemeindeleben on St. Marien Gemeinde Berlin</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://st-marien-beispiel.de/gemeindeleben/index.xml" rel="self" type="application/rss+xml"/><item><title>Kirchenchor St. Marien</title><link>https://st-marien-beispiel.de/gemeindeleben/kirchenchor/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>https://st-marien-beispiel.de/gemeindeleben/kirchenchor/</guid><description>Kirchenchor St. Marien Unser Kirchenchor trifft sich jeden Donnerstag von 19:30 bis 21:00 Uhr im Gemeindesaal.
+Aktuelles Repertoire Mozart: Missa brevis in D Bach: Verschiedene Motetten Moderne Kirchenlieder Mitsingen? Neue Sängerinnen und Sänger sind herzlich willkommen! Sprechen Sie einfach unseren Chorleiter an.</description></item></channel></rss>
