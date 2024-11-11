@@ -13,7 +13,7 @@ enableRobotsTXT = true
   googleFonts = true
   
   [params.logo]
-    main = "img/logo/kirche-logo.svg"
+    # main = "img/logo/kirche-logo.svg"
     alt = "St. Marien Logo Berlin"
     size = "h-16"
     
